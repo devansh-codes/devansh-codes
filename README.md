@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chaudharyd@usf.edu**
 
-- ⚡ Fun fact **I play golf for my college.**
+- ⚡ Fun fact **I love Indo-Chinese food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
