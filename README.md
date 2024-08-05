@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://dzone.com/users/5156665/devansh-1.html](https://dzone.com/users/5156665/devansh-1.html)
 
-- 💬 Ask me about **Javascript, Data Structures, and Node.js**
+- 💬 Ask me about **Web dev, Data Structures, and R**
 
 - 📫 How to reach me **chaudharyd@usf.edu**
 
