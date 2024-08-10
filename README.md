@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Chaudhary</h1>
 <h3 align="center">A passionate full stack developer and a rising Junior at the Judy Genshaft Honors College at University of South Florida, Tampa, pursuing my Bachelor's in Computer Science and a minor in Mathematics.</h3>
 
-- 📝 You can find me @ college hackathons in Florida 
+- 📝 You can find me @ MLH hackathons in Florida 
 
 - 💬 Ask me about **Web dev, Data Structures, and Python **
 
