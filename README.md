@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Devansh Chaudhary</h1>
 <h3 align="center">A passionate full stack developer and a rising Junior at the Judy Genshaft Honors College at University of South Florida, Tampa, pursuing my Bachelor's in Computer Science and a minor in Mathematics.</h3>
 
-- 📝 I regularly write articles on [https://dzone.com/users/5156665/devansh-1.html](https://dzone.com/users/5156665/devansh-1.html)
+- 📝 You can find me at majority of college hackathons in Florida 
 
-- 💬 Ask me about **Web dev, Data Structures, and R**
+- 💬 Ask me about **Web dev, Data Structures, and Python **
 
 - 📫 How to reach me **chaudharyd@usf.edu**
 
-- ⚡ Fun fact **I love Indo-Chinese food**
+- ⚡ Fun fact **I have been to 5 countries, and out of all, I liked Indo-Chinese food the best!! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
